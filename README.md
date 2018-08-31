@@ -1,7 +1,7 @@
 # deoplete-mu
 
 `deoplete-mu` offers asynchronous completion of email addresses using the [mu](https://github.com/djcb/mu) maildir indexer/searcher.
-Inspired by [khard](https://github.com/scheibler/khard).
+Inspired by [deoplete-khard](https://github.com/nicoe/deoplete-khard).
 
 ## Installation
 
