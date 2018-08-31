@@ -5,7 +5,7 @@ Inspired by [khard](https://github.com/scheibler/khard).
 
 ## Installation
 
-To install `deoplete-mu`, use your favorite [Neovim](https://neovim.io/) plugin manager.
+To install `deoplete-mu`, use your favourite [Neovim](https://neovim.io/) plugin manager.
 
 #### Using [vim-plug](https://github.com/junegunn/vim-plug)
 
